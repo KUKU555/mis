@@ -4,7 +4,7 @@
 
 ```mermaid
 gantt
-    title A Gantt Diagram
+    甘特圖
 
     section Section
     研擬計畫               :2023-10-03, 1d
