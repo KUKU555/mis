@@ -9,6 +9,8 @@ abstract class CShape{
     public abstract void show();
 }
 
+```
+```java
 class CTriangle extends CShape{
     double ca, cb, cc;
     public CTriangle(double a, double b, double c){
@@ -22,7 +24,8 @@ class CTriangle extends CShape{
         System.out.print("color="+color+"  ");
         System.out.print("area="+0.5*ca*cb);
     }
-   
+```
+```java
 }
 
 public class app11 {
